@@ -1,0 +1,21 @@
+{
+  "name": "platzi-test",
+  "version": "1.0.0",
+  "description": "Pruebas unitarias con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Jest",
+    "testing",
+    "course",
+    "learning"
+  ],
+  "author": "Sergui Morejon",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.6.3",
+    "jest": "^24.9.0"
+  }
+}
