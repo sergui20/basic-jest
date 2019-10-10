@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test with snapshots Allow exceptions 1`] = `
+Object {
+  "id": Any<Number>,
+  "name": "Oscar Vargas",
+}
+`;
+
+exports[`Test with snapshots Rick Snapshot 1`] = `
+Object {
+  "gender": "Male",
+  "id": 1,
+  "name": "Rick Sanchez",
+  "species": "Human",
+  "status": "Death",
+}
+`;
+
+exports[`Test with snapshots Will always fail snapshot 1`] = `
+Object {
+  "createdAt": 2019-10-10T23:13:58.338Z,
+  "id": 1,
+}
+`;
